@@ -1,2 +1,3 @@
 # CE4145Coursework
-Coursework for CE4145
+Link to dataset below
+https://archive.ics.uci.edu/dataset/228/sms+spam+collection
